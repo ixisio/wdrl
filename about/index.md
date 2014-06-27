@@ -19,6 +19,10 @@ This project is an attempt to filter and concatenate all the web development lin
 
 ----
 
+> “I subscribe to a lot of dev newsletters, but this one is my fave. Expertly curated!”—Drew Lustro
+
+----
+
 ### The Selection Process
 
 I ([Anselm](http://helloanselm.com/)) collect all the links coming up in my twitter, Google+ stream and my own findings into a rough list. The first selection already happens after I read an article &mdash; if it’s well written and has valuable content it will go into the list, otherwise it will be thrown away. You can imagine there is a load of good articles in just one week; it would be too much for a summary as the WDRL aims to be. A second review guarantees that only important articles and topics come up. Usually this results in about 15 links a week.
