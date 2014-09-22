@@ -7,7 +7,7 @@ title: "About"
 
 ----
 
-> ![](http://twitter.com/api/users/profile_image/smashingmag?size=bigger) “A great resource, I read every issue.”—[Vitaly Friedman, SmashingMag](http://smashingmagazine.com/)
+> ![](/img/smashingmag.png) “A great resource, I read every issue.”—[Vitaly Friedman, SmashingMag](http://smashingmagazine.com/)
 
 ----
 
@@ -15,7 +15,7 @@ This project is an attempt to filter and concatenate all the web development lin
 
 ----
 
-> ![](http://twitter.com/api/users/profile_image/bastianallgeier?size=bigger) “The ‘best web developer newsletter award’ goes to wdrl.info #personalnetawards”—[Bastian Allgeier](http://bastianallgeier.com/)
+> ![](/img/bastianallgeier.jpg) “The ‘best web developer newsletter award’ goes to wdrl.info #personalnetawards”—[Bastian Allgeier](http://bastianallgeier.com/)
 
 ----
 
@@ -29,7 +29,7 @@ I ([Anselm](http://helloanselm.com/)) collect all the links coming up in my twit
 
 ----
 
-> ![](http://twitter.com/api/users/profile_image/addyosmani?size=bigger) “It’s pretty fantastic. (…) I read it every week. There's always at least an article or two I’ve missed and the links are usually A+.”—[Addy Osmani](http://addyosmani.com/blog/)
+> ![](/img/addyosmani.jpg) “It’s pretty fantastic. (…) I read it every week. There's always at least an article or two I’ve missed and the links are usually A+.”—[Addy Osmani](http://addyosmani.com/blog/)
 
 ----
 
