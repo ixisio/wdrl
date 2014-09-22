@@ -44,8 +44,8 @@ As you can imagine this is a time consuming job and I gain no money from it. Fir
 I’ve once tracked the time I spend every week on the WDRL: Roughly 10hrs.<br>
 This list is only possible because I love what I do. No company pays for it, I have no ads in my newsletters. I’d love to get financed by my readers, just because they love what I do and find it worth a small donation.
 
-**So if you want to support me, a <a href="https://www.gittip.com/Anselm%20Hannemann/">GitTip</a> (<script data-gittip-username="Anselm Hannemann"
-		data-gittip-widget="button" src="//gttp.co/v1.js"></script>) is highly appreciated! &hearts;**
+**So if you want to support me, a <a href="https://www.gratipay.com/Anselm%20Hannemann/">gratipay</a> (<script data-gratipay-username="Anselm Hannemann"
+		data-gratipay-widget="button" src="//gttp.co/v1.js"></script>) is highly appreciated! &hearts;**
 
 
 

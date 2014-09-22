@@ -25,7 +25,7 @@ _Note: As you might have recognized I do not state any detailed information abou
 
 ## Support the WDRL
 
-The Web Development Reading List is curated for you and gives you an overview of the most important links over the week. It helps you to stay up-to-date but it also costs me about 10 hours a week and currently I gain no money out of it except the funds from [Flattr](https://flattr.com/profile/helloanselm) and [Gittip](https://www.gittip.com/Anselm%20Hannemann/). Together they’re roughly $20/month which is mostly spend into domain, asset hosting and similar technical things.
+The Web Development Reading List is curated for you and gives you an overview of the most important links over the week. It helps you to stay up-to-date but it also costs me about 10 hours a week and currently I gain no money out of it except the funds from [Flattr](https://flattr.com/profile/helloanselm) and [gratipay](https://www.gratipay.com/Anselm%20Hannemann/). Together they’re roughly $20/month which is mostly spend into domain, asset hosting and similar technical things.
 
 So this projects currently lives from the author’s free time. Please consider paying for the service you love
 and that helps you gain your own money. Thanks!
